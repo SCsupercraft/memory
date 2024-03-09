@@ -2,6 +2,15 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-   
+      {
+        "id":"0.3.1",
+        "releasedAt":"1710006355180",
+        "promotions":{
+          "downloads":{
+            "curseforge":"https://www.curseforge.com/minecraft/modpacks/create-factory-builder"
+          }
+        },
+        "updateType":"incompatible"
+      }
     ]
   }

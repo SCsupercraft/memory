@@ -1,0 +1,8 @@
+- Less money given at start
+- Added 4 new researches (Expansion I, Improved Furnace I,
+Faster Furnace, Parallel Gearbox)
+- Added new rewards to Factory Level I
+- Added new manifest for Exporting I
+- Added new items to the shop
+- Debuffed rewards from secret quests
+- Added 1 new secret quest
