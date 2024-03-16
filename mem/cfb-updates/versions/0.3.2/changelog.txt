@@ -1,0 +1,6 @@
+- You can no longer escape the map (alive)
+- Exporter now works properly
+- Export andesite alloy quest gives less money to match the new price of andesite alloy
+- You can no longer break the ceiling
+- You no longer get annoying popups when completing repeated quests
+- Added Discord Rich Presence
