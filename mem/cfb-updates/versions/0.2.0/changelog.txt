@@ -1,0 +1,5 @@
+- Added Quests
+- Added Repeatable Quests (Exporting Items For Less Money But Grants XP Instead)
+- Added Research
+- Added Factory Upgrade I
+- Added Factory Guide
