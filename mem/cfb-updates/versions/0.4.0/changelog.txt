@@ -1,0 +1,3 @@
+- Added Chapter 1
+- Added New Company
+- Added Multiplayer Support
