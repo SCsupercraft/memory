@@ -1,0 +1,7 @@
+HOTFIX
+
+- keepInventory gamerule is now enabled
+- You now can only submit a check with the correct amount of money stored in it
+- You now get the path 1 or path 2 advancement from the backtrack quest
+- You no longer need to submit a blaze burner to complete the blaze burner quest
+- Essential Mod has been removed from the pack
