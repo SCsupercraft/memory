@@ -1,5 +1,7 @@
 {
     "name": "My Project",
+    "author": "SCsupercraft",
+    "credits": ["SCsupercraft"],
     "versions": {
         "0.1.0": {
             "updateType": "minor"
