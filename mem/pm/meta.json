@@ -1,0 +1,8 @@
+{
+    "name": "My Project",
+    "versions": {
+        "0.1.0": {
+            "updateType": "minor"
+        }
+    }
+}
