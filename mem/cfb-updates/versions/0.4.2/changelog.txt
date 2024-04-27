@@ -1,0 +1,4 @@
+HOTFIX
+
+- Disabled crafting recipes from mods added in 0.4.0
+- Added Embeddium, Embeddium (Rubidium) Extra and TexTrue's Embeddium Options for improved performance
