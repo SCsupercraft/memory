@@ -1,0 +1,9 @@
+- Removed items from the shop that could not be unlocked
+- Updated prices
+- Added new chapter
+- Added new company
+- Added new tips
+- Added 2 new secret quests for chapter 1
+- You can go into creative mode after completing every quest (including secret quests)
+- You can no longer destroy the factory walls and floor with items such as a mechanical drill
+- Added a secret questline
